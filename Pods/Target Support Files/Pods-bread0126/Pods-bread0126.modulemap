@@ -1,0 +1,6 @@
+framework module Pods_bread0126 {
+  umbrella header "Pods-bread0126-umbrella.h"
+
+  export *
+  module * { export * }
+}
